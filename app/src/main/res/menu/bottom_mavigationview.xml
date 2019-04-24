@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation1"
+        android:title="生肖"></item>
+    <item
+        android:id="@+id/navigation2"
+        android:title="七星彩"></item>
+    <item
+        android:id="@+id/navigation3"
+        android:title="彩票"></item>
+</menu>
